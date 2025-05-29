@@ -9,7 +9,7 @@ from telegram.ext import (
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # Your Telegram user ID (get it from @userinfobot)
-ADMIN_ID = 123456789  # Replace with your real Telegram user ID
+ADMIN_ID = 5179577776  # Replace with your real Telegram user ID
 
 # File to store user IDs
 USERS_FILE = "users.txt"
